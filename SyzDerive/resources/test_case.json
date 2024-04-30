@@ -1,0 +1,18 @@
+{
+    "bf4bb7731ef73b83a3b4": {
+        "commit": "1b929c02afd37871d5afb9d498426f83432e71c2",
+        "syzkaller": "9da18ae8fa827d046ef8da48cc23c97418553c23",
+        "config": "https://syzkaller.appspot.com//text?tag=KernelConfig&x=68e0be42c8ee4bb4",
+        "syz_repro": "https://syzkaller.appspot.com//text?tag=ReproSyz&x=109a70f4480000",
+        "log": "https://syzkaller.appspot.com//text?tag=CrashLog&x=16ad35e4480000",
+        "c_repro": "https://syzkaller.appspot.com//text?tag=ReproC&x=1200b8f4480000",
+        "time": "2022/12/27 07:04",
+        "manager": "ci2-upstream-fs",
+        "report": "https://syzkaller.appspot.com//text?tag=CrashReport&x=173d9ae4480000",
+        "vul_offset": null,
+        "obj_size": null,
+        "host_url": "https://syzkaller.appspot.com/bug?extid=bf4bb7731ef73b83a3b4",
+        "title": "\nKASAN: use-after-free Read in ext4_find_extent (2)\next4\n",
+        "patch": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=835659598c67907b98cd2aa57bb951dfaf675c69"
+    }
+}
